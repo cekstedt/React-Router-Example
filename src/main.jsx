@@ -40,13 +40,6 @@ import Index from "./routes/index";
 //             loader: contactLoader,
 //             action: contactAction
 //           },
-//           { index: true, element: <Index /> },
-//           {
-//             path: "contacts/:contactId",
-//             element: <Contact />,
-//             loader: contactLoader,
-//             action: contactAction
-//           },
 //           {
 //             path: "contacts/:contactId/edit",
 //             element: <EditContact />,

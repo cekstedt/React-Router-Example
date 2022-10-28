@@ -1,0 +1,11 @@
+{
+  "name": "React Router Tutorial",
+  "repo": "https://github.com/cekstedt/React-Router-Example",
+  "challenger": "Remix",
+  "challenge page": "https://reactrouter.com/en/main/start/tutorial",
+  "hosted": "https://startling-faun-fc662e.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css", "js", "react"]
+}
